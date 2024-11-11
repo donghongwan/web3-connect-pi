@@ -45,6 +45,22 @@
 [![Certified Qtum](https://img.shields.io/badge/Qtum-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=qtum&logoColor=white)](https://qtum.org/)
 [![Certified Holochain](https://img.shields.io/badge/Holochain-Certified%20Blockchain-FF4B00?style=for-the-badge&logo=holochain&logoColor=white)](https://holochain.org/)
 [![Certified Fetch.ai](https://img.shields.io/badge/Fetch.ai-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=fetch-ai&logoColor=white)](https://fetch.ai/)
+[![Certified Ocean Protocol](https://img.shields.io/badge/Ocean%20Protocol-Certified%20Blockchain-0072B8?style=for-the-badge&logo=oceanprotocol&logoColor=white)](https://oceanprotocol.com/)
+[![Certified Render Network](https://img.shields.io/badge/Render%20Network-Certified%20Blockchain-FF3D00?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Certified The Graph](https://img.shields.io/badge/The%20Graph-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=thegraph&logoColor=white)](https://thegraph.com/)
+[![Certified Injective Protocol](https://img.shields.io/badge/Injective%20Protocol-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=injective&logoColor=white)](https://injectiveprotocol.com/)
+[![Certified Synthetix](https://img.shields.io/badge/Synthetix-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=synthetix&logoColor=white)](https://synthetix.io/)
+[![Certified Yearn Finance](https://img.shields.io/badge/Yearn%20Finance-Certified%20Blockchain-FFD700?style=for-the-badge&logo=yearn&logoColor=white)](https://yearn.finance/)
+[![Certified Aave](https://img.shields.io/badge/Aave-Certified%20Blockchain-3A3A3A?style=for-the-badge&logo=aave&logoColor=white)](https://aave.com/)
+[![Certified Compound](https://img.shields.io/badge/Compound-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=compound&logoColor=white)](https://compound.finance/)
+[![Certified Balancer](https://img.shields.io/badge/Balancer-Certified%20Blockchain-FF007A?style=for-the-badge&logo=balancer&logoColor=white)](https://balancer.finance/)
+[![Certified Curve Finance](https://img.shields.io/badge/Curve%20Finance-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=curve&logoColor=white)](https://curve.fi/)
+[![Certified PancakeSwap](https://img.shields.io/badge/PancakeSwap-Certified%20Blockchain-FEBB00?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/)
+[![Certified Uniswap](https://img.shields.io/badge/Uniswap-Certified%20Blockchain-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)](https://uniswap.org/)
+[![Certified 1inch](https://img.shields.io/badge/1inch-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=1inch&logoColor=white)](https://1inch.io/)
+[![Certified SushiSwap](https://img.shields.io/badge/SushiSwap-Certified%20Blockchain-FF007A?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
+[![Certified Gnosis](https://img.shields.io/badge/Gnosis-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=gnosis&logoColor=white)](https://gnosis.io/)
+[![Certified Augur](https://img.shields.io/badge/Augur-Certified%20Blockchain-FF007A?style=for-the-badge&logo=augur&logoColor=white)](https://augur.net/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
