@@ -29,6 +29,22 @@
 [![Certified IOTA](https://img.shields.io/badge/IOTA-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=iota&logoColor=white)](https://www.iota.org/)
 [![Certified VeChain](https://img.shields.io/badge/VeChain-Certified%20Blockchain-4B4B4B?style=for-the-badge&logo=vechain&logoColor=white)](https://www.vechain.org/)
 [![Certified Ontology](https://img.shields.io/badge/Ontology-Certified%20Blockchain-00A3E0?style=for-the-badge&logo=ontology&logoColor=white)](https://ont.io/)
+[![Certified Arweave](https://img.shields.io/badge/Arweave-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=arweave&logoColor=white)](https://www.arweave.org/)
+[![Certified Stacks](https://img.shields.io/badge/Stacks-Certified%20Blockchain-3D3D3D?style=for-the-badge&logo=stacks&logoColor=white)](https://www.stacks.co/)
+[![Certified Celo](https://img.shields.io/badge/Celo-Certified%20Blockchain-00BFAE?style=for-the-badge&logo=celo&logoColor=white)](https://celo.org/)
+[![Certified Kava](https://img.shields.io/badge/Kava-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=kava&logoColor=white)](https://www.kava.io/)
+[![Certified Harmony](https://img.shields.io/badge/Harmony-Certified%20Blockchain-2D6BFF?style=for-the-badge&logo=harmony&logoColor=white)](https://www.harmony.one/)
+[![Certified Nervos](https://img.shields.io/badge/Nervos-Certified%20Blockchain-FF4B00?style=for-the-badge&logo=nervos&logoColor=white)](https://www.nervos.org/)
+[![Certified Zcash](https://img.shields.io/badge/Zcash-Certified%20Cryptocurrency-EC8C00?style=for-the-badge&logo=zcash&logoColor=white)](https://z.cash/)
+[![Certified Dash](https://img.shields.io/badge/Dash-Certified%20Cryptocurrency-00BFFF?style=for-the-badge&logo=dash&logoColor=white)](https://www.dash.org/)
+[![Certified Monero](https://img.shields.io/badge/Monero-Certified%20Cryptocurrency-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org/)
+[![Certified Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-Certified%20Cryptocurrency-8CC51F?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.bitcoincash.org/)
+[![Certified Litecoin](https://img.shields.io/badge/Litecoin-Certified%20Cryptocurrency-4C4C4C?style=for-the-badge&logo=litecoin&logoColor=white)](https://litecoin.com/)
+[![Certified Dogecoin](https://img.shields.io/badge/Dogecoin-Certified%20Cryptocurrency-C2A83D?style=for-the-badge&logo=dogecoin&logoColor=white)](https://dogecoin.com/)
+[![Certified Ravencoin](https://img.shields.io/badge/Ravencoin-Certified%20Cryptocurrency-8B0000?style=for-the-badge&logo=ravencoin&logoColor=white)](https://ravencoin.org/)
+[![Certified Qtum](https://img.shields.io/badge/Qtum-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=qtum&logoColor=white)](https://qtum.org/)
+[![Certified Holochain](https://img.shields.io/badge/Holochain-Certified%20Blockchain-FF4B00?style=for-the-badge&logo=holochain&logoColor=white)](https://holochain.org/)
+[![Certified Fetch.ai](https://img.shields.io/badge/Fetch.ai-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=fetch-ai&logoColor=white)](https://fetch.ai/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
