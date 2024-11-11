@@ -45,6 +45,22 @@
 [![Qtum](https://img.shields.io/badge/Qtum-Blockchain-00BFFF?style=for-the-badge&logo=qtum&logoColor=white)](https://qtum.org/)
 [![Holochain](https://img.shields.io/badge/Holochain-Blockchain-FF4B00?style=for-the-badge&logo=holochain&logoColor=white)](https://holochain.org/)
 [![Fetch.ai](https://img.shields.io/badge/Fetch.ai-Blockchain-00BFFF?style=for-the-badge&logo=fetch-ai&logoColor=white)](https://fetch.ai/)
+[![Ocean Protocol](https://img.shields.io/badge/Ocean%20Protocol-Blockchain-0072B8?style=for-the-badge&logo=oceanprotocol&logoColor=white)](https://oceanprotocol.com/)
+[![Render Network](https://img.shields.io/badge/Render%20Network-Blockchain-FF3D00?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![The Graph](https://img.shields.io/badge/The%20Graph-Blockchain-00BFFF?style=for-the-badge&logo=thegraph&logoColor=white)](https://thegraph.com/)
+[![Injective Protocol](https://img.shields.io/badge/Injective%20Protocol-Blockchain-4B8BBE?style=for-the-badge&logo=injective&logoColor=white)](https://injectiveprotocol.com/)
+[![Synthetix](https://img.shields.io/badge/Synthetix-Blockchain-00BFFF?style=for-the-badge&logo=synthetix&logoColor=white)](https://synthetix.io/)
+[![Yearn Finance](https://img.shields.io/badge/Yearn%20Finance-Blockchain-FFD700?style=for-the-badge&logo=yearn&logoColor=white)](https://yearn.finance/)
+[![Aave](https://img.shields.io/badge/Aave-Blockchain-3A3A3A?style=for-the-badge&logo=aave&logoColor=white)](https://aave.com/)
+[![Compound](https://img.shields.io/badge/Compound-Blockchain-00BFFF?style=for-the-badge&logo=compound&logoColor=white)](https://compound.finance/)
+[![Balancer](https://img.shields.io/badge/Balancer-Blockchain-FF007A?style=for-the-badge&logo=balancer&logoColor=white)](https://balancer.finance/)
+[![Curve Finance](https://img.shields.io/badge/Curve%20Finance-Blockchain-00BFFF?style=for-the-badge&logo=curve&logoColor=white)](https://curve.fi/)
+[![PancakeSwap](https://img.shields.io/badge/PancakeSwap-Blockchain-FEBB00?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Blockchain-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)](https://uniswap.org/)
+[![1inch](https://img.shields.io/badge/1inch-Blockchain-00BFFF?style=for-the-badge&logo=1inch&logoColor=white)](https://1inch.io/)
+[![SushiSwap](https://img.shields.io/badge/SushiSwap-Blockchain-FF007A?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
+[![Gnosis](https://img.shields.io/badge/Gnosis-Blockchain-00BFFF?style=for-the-badge&logo=gnosis&logoColor=white)](https://gnosis.io/)
+[![Augur](https://img.shields.io/badge/Augur-Blockchain-FF007A?style=for-the-badge&logo=augur&logoColor=white)](https://augur.net/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
