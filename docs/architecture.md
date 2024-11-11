@@ -4,7 +4,7 @@
 The Web3 Connect project is designed to facilitate seamless integration between various Web3 applications and the Pi Network ecosystem. This document outlines the architecture of the system, including its components, interactions, and technologies used.
 
 ## Architecture Diagram
-![Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](web3-connect.jpeg)
 
 ## Components
 1. **Frontend**: A user-friendly interface built with React.js that allows users to interact with the integrated Web3 applications.
