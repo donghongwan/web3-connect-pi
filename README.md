@@ -5,6 +5,15 @@
 [![Blockchain Badges](https://img.shields.io/badge/Blockchain%20Badges-Digital%20Credentials-4CAF50?style=for-the-badge)](https://www.blockchainbadges.com/)
 [![Accredible](https://img.shields.io/badge/Accredible-Digital%20Credentials-FF9800?style=for-the-badge)](https://www.accredible.com/)
 [![ISACA Badges](https://img.shields.io/badge/ISACA-Open%20Badges-0072C6?style=for-the-badge)](https://www.isaca.org/credentialing/credentialing-badges)
+[![Hyperledger](https://img.shields.io/badge/Hyperledger-Project-00BFFF?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-Cryptocurrency-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/)
+[![Corda](https://img.shields.io/badge/Corda-Blockchain-00A3E0?style=for-the-badge&logo=corda&logoColor=white)](https://www.corda.net/)
+[![Tezos](https://img.shields.io/badge/Tezos-Blockchain-000000?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com/)
+[![Cardano](https://img.shields.io/badge/Cardano-Blockchain-3CCBDA?style=for-the-badge&logo=cardano&logoColor=white)](https://www.cardano.org/)
+[![Polkadot](https://img.shields.io/badge/Polkadot-Blockchain-EC4C3D?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.network/)
+[![W3C](https://img.shields.io/badge/W3C-Standards-005A8B?style=for-the-badge&logo=w3c&logoColor=white)](https://www.w3.org/)
+[![ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC%2027001-Information%20Security-FFCC00?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
