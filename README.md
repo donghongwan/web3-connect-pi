@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![NPM Version](https://img.shields.io/npm/v/your-package-name.svg?style=for-the-badge)](https://www.npmjs.com/package/your-package-name)
+
 [![Chainlink Verified Oracle Network](https://img.shields.io/badge/Chainlink-Verified%20Oracle%20Network-3498DB?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link/)
 [![Blockchain Badges](https://img.shields.io/badge/Blockchain%20Badges-Digital%20Credentials-4CAF50?style=for-the-badge)](https://www.blockchainbadges.com/)
 [![Accredible](https://img.shields.io/badge/Accredible-Digital%20Credentials-FF9800?style=for-the-badge)](https://www.accredible.com/)
