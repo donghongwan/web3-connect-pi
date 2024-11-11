@@ -14,7 +14,21 @@
 [![Certified Polkadot](https://img.shields.io/badge/Polkadot-Certified%20Blockchain-EC4C3D?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.network/)
 [![Certified W3C](https://img.shields.io/badge/W3C-Certified%20Standards-005A8B?style=for-the-badge&logo=w3c&logoColor=white)](https://www.w3.org/)
 [![Certified ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC%2027001-Certified%20Information%20Security-FFCC00?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html)
-
+[![Certified Solana](https://img.shields.io/badge/Solana-Certified%20Blockchain-65B3F0?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
+[![Certified Avalanche](https://img.shields.io/badge/Avalanche-Certified%20Blockchain-EB5757?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network/)
+[![Certified Algorand](https://img.shields.io/badge/Algorand-Certified%20Blockchain-00A3E0?style=for-the-badge&logo=algorand&logoColor=white)](https://www.algorand.com/)
+[![Certified Ripple](https://img.shields.io/badge/Ripple-Certified%20Blockchain-00A8E0?style=for-the-badge&logo=ripple&logoColor=white)](https://ripple.com/)
+[![Certified NEO](https://img.shields.io/badge/NEO-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=neo&logoColor=white)](https://neo.org/)
+[![Certified EOSIO](https://img.shields.io/badge/EOSIO-Certified%20Blockchain-00B4D8?style=for-the-badge&logo=eos&logoColor=white)](https://eos.io/)
+[![Certified Tron](https://img.shields.io/badge/Tron-Certified%20Blockchain-FF6A00?style=for-the-badge&logo=tron&logoColor=white)](https://tron.network/)
+[![Certified Zilliqa](https://img.shields.io/badge/Zilliqa-Certified%20Blockchain-1C1C1C?style=for-the-badge&logo=zilliqa&logoColor=white)](https://zilliqa.com/)
+[![Certified Hedera](https://img.shields.io/badge/Hedera-Certified%20Blockchain-00B2A9?style=for-the-badge&logo=hedera&logoColor=white)](https://www.hedera.com/)
+[![Certified Fantom](https://img.shields.io/badge/Fantom-Certified%20Blockchain-1B1F24?style=for-the-badge&logo=fantom&logoColor=white)](https://fantom.foundation/)
+[![Certified Kusama](https://img.shields.io/badge/Kusama-Certified%20Blockchain-6C6C6C?style=for-the-badge&logo=kusama&logoColor=white)](https://kusama.network/)
+[![Certified Cosmos](https://img.shields.io/badge/Cosmos-Certified%20Blockchain-2B2D42?style=for-the-badge&logo=cosmos&logoColor=white)](https://cosmos.network/)
+[![Certified IOTA](https://img.shields.io/badge/IOTA-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=iota&logoColor=white)](https://www.iota.org/)
+[![Certified VeChain](https://img.shields.io/badge/VeChain-Certified%20Blockchain-4B4B4B?style=for-the-badge&logo=vechain&logoColor=white)](https://www.vechain.org/)
+[![Certified Ontology](https://img.shields.io/badge/Ontology-Certified%20Blockchain-00A3E0?style=for-the-badge&logo=ontology&logoColor=white)](https://ont.io/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
