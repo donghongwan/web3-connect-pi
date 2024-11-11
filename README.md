@@ -61,6 +61,22 @@
 [![Certified SushiSwap](https://img.shields.io/badge/SushiSwap-Certified%20Blockchain-FF007A?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
 [![Certified Gnosis](https://img.shields.io/badge/Gnosis-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=gnosis&logoColor=white)](https://gnosis.io/)
 [![Certified Augur](https://img.shields.io/badge/Augur-Certified%20Blockchain-FF007A?style=for-the-badge&logo=augur&logoColor=white)](https://augur.net/)
+[![Certified Basic Attention Token](https://img.shields.io/badge/Basic%20Attention%20Token-Certified%20Blockchain-FF6F20?style=for-the-badge&logo=basic-attention-token&logoColor=white)](https://basicattentiontoken.org/)
+[![Certified Chiliz](https://img.shields.io/badge/Chiliz-Certified%20Blockchain-00A3E0?style=for-the-badge&logo=chiliz&logoColor=white)](https://chiliz.com/)
+[![Certified Enjin](https://img.shields.io/badge/Enjin-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=enjin&logoColor=white)](https://enjin.io/)
+[![Certified Decentraland](https://img.shields.io/badge/Decentraland-Certified%20Blockchain-4B8BBE?style=for-the-badge&logo=decentraland&logoColor=white)](https://decentraland.org/)
+[![Certified The Sandbox](https://img.shields.io/badge/The%20Sandbox-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=sandbox&logoColor=white)](https://www.sandbox.game/)
+[![Certified Axie Infinity](https://img.shields.io/badge/Axie%20Infinity-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=axie-infinity&logoColor=white)](https://axieinfinity.com/)
+[![Certified Illuvium](https://img.shields.io/badge/Illuvium-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=illuvium&logoColor=white)](https://illuvium.io/)
+[![Certified My Neighbor Alice](https://img.shields.io/badge/My%20Neighbor%20Alice-Certified%20Blockchain-FF6F20?style=for-the-badge&logo=my-neighbor-alice&logoColor=white)](https://myneighboralice.com/)
+[![Certified Gods Unchained](https://img.shields.io/badge/Gods%20Unchained-Certified%20Blockchain-FF6F20?style=for-the-badge&logo=gods-unchained&logoColor=white)](https://godsunchained.com/)
+[![Certified CryptoKitties](https://img.shields.io/badge/CryptoKitties-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=cryptokitties&logoColor=white)](https://www.cryptokitties.co/)
+[![Certified Sorare](https://img.shields.io/badge/Sorare-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=sorare&logoColor=white)](https://sorare.com/)
+[![Certified Zed Run](https://img.shields.io/badge/Zed%20Run-Certified%20Blockchain-FF6F20?style=for-the-badge&logo=zed-run&logoColor=white)](https://zed.run/)
+[![Certified Chainlink](https://img.shields.io/badge/Chainlink-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link/)
+[![Certified Polygon](https://img.shields.io/badge/Polygon-Certified%20Blockchain-8C3DFF?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
+[![Certified Frax Finance](https://img.shields.io/badge/Frax%20Finance-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=frax&logoColor=white)](https://frax.finance/)
+[![Certified Terra](https://img.shields.io/badge/Terra-Certified%20Blockchain-00BFFF?style=for-the-badge&logo=terra&logoColor=white)](https://terra.money/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
