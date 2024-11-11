@@ -1,3 +1,8 @@
+[![Chainlink Verified Oracle Network](https://img.shields.io/badge/Chainlink-Verified%20Oracle%20Network-3498DB?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link/)
+[![Blockchain Badges](https://img.shields.io/badge/Blockchain%20Badges-Digital%20Credentials-4CAF50?style=for-the-badge)](https://www.blockchainbadges.com/)
+[![Accredible](https://img.shields.io/badge/Accredible-Digital%20Credentials-FF9800?style=for-the-badge)](https://www.accredible.com/)
+[![ISACA Badges](https://img.shields.io/badge/ISACA-Open%20Badges-0072C6?style=for-the-badge)](https://www.isaca.org/credentialing/credentialing-badges)
+
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
 
