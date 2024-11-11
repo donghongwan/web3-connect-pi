@@ -61,6 +61,22 @@
 [![SushiSwap](https://img.shields.io/badge/SushiSwap-Blockchain-FF007A?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
 [![Gnosis](https://img.shields.io/badge/Gnosis-Blockchain-00BFFF?style=for-the-badge&logo=gnosis&logoColor=white)](https://gnosis.io/)
 [![Augur](https://img.shields.io/badge/Augur-Blockchain-FF007A?style=for-the-badge&logo=augur&logoColor=white)](https://augur.net/)
+[![Basic Attention Token](https://img.shields.io/badge/Basic%20Attention%20Token-Blockchain-FF6F20?style=for-the-badge&logo=basic-attention-token&logoColor=white)](https://basicattentiontoken.org/)
+[![Chiliz](https://img.shields.io/badge/Chiliz-Blockchain-00A3E0?style=for-the-badge&logo=chiliz&logoColor=white)](https://chiliz.com/)
+[![Enjin](https://img.shields.io/badge/Enjin-Blockchain-00BFFF?style=for-the-badge&logo=enjin&logoColor=white)](https://enjin.io/)
+[![Decentraland](https://img.shields.io/badge/Decentraland-Blockchain-4B8BBE?style=for-the-badge&logo=decentraland&logoColor=white)](https://decentraland.org/)
+[![The Sandbox](https://img.shields.io/badge/The%20Sandbox-Blockchain-00BFFF?style=for-the-badge&logo=sandbox&logoColor=white)](https://www.sandbox.game/)
+[![Axie Infinity](https://img.shields.io/badge/Axie%20Infinity-Blockchain-00BFFF?style=for-the-badge&logo=axie-infinity&logoColor=white)](https://axieinfinity.com/)
+[![Illuvium](https://img.shields.io/badge/Illuvium-Blockchain-00BFFF?style=for-the-badge&logo=illuvium&logoColor=white)](https://illuvium.io/)
+[![My Neighbor Alice](https://img.shields.io/badge/My%20Neighbor%20Alice-Blockchain-FF6F20?style=for-the-badge&logo=my-neighbor-alice&logoColor=white)](https://myneighboralice.com/)
+[![Gods Unchained](https://img.shields.io/badge/Gods%20Unchained-Blockchain-FF6F20?style=for-the-badge&logo=gods-unchained&logoColor=white)](https://godsunchained.com/)
+[![CryptoKitties](https://img.shields.io/badge/CryptoKitties-Blockchain-00BFFF?style=for-the-badge&logo=cryptokitties&logoColor=white)](https://www.cryptokitties.co/)
+[![Sorare](https://img.shields.io/badge/Sorare-Blockchain-00BFFF?style=for-the-badge&logo=sorare&logoColor=white)](https://sorare.com/)
+[![Zed Run](https://img.shields.io/badge/Zed%20Run-Blockchain-FF6F20?style=for-the-badge&logo=zed-run&logoColor=white)](https://zed.run/)
+[![Chainlink](https://img.shields.io/badge/Chainlink-Blockchain-00BFFF?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link/)
+[![Polygon](https://img.shields.io/badge/Polygon-Blockchain-8C3DFF?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
+[![Frax Finance](https://img.shields.io/badge/Frax%20Finance-Blockchain-00BFFF?style=for-the-badge&logo=frax&logoColor=white)](https://frax.finance/)
+[![Terra](https://img.shields.io/badge/Terra-Blockchain-00BFFF?style=for-the-badge&logo=terra&logoColor=white)](https://terra.money/)
 
 # web3-connect-pi
 A seamless integration platform that connects various Web3 applications to the Pi Network ecosystem, enabling automated interactions, asset transfers, and a unified user experience across decentralized applications.
